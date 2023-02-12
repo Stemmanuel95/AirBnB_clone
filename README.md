@@ -181,6 +181,4 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Emmanuel Yeboah Manu | Email: [yeboahmanuemmanuel@gmail.com](mailto:yeboahmanuemmanuel@gmail.com) 
-
-Maya Kubiti | Github: [Mayakubiti](mailto:mayakubiti@gmail.com)
+Emmanuel Yeboah Manu | Email: [yeboahmanuemmanuel@gmail.com](mailto:yeboahmanuemmanuel@gmail.com)
